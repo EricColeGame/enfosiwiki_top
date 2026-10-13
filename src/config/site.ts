@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Characters, Mechanics & Updates",
   description: "Explore enfosi Wiki with detailed gameplay guides, character information, mechanics, updates, and essential resources to help players discover everything.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://enfosiwiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://enfosiwiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@enfosiwiki.top",
   gameUrl: "https://www.roblox.com/games/78353262320982/Enfosi",
   heroVideoId: "xHPrS4uEn7s", // Enfosi - Beginner Guide (gameplay tutorial)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/groups/9835935",
+    youtube: "https://www.youtube.com/@BucketBazard",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

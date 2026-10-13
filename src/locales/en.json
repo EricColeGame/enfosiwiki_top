@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "enfosi Wiki",
+    "shortName": "enfosi",
+    "tagline": "Complete Guides, Characters, Mechanics & Updates",
+    "description": "Explore enfosi Wiki with detailed gameplay guides, character information, mechanics, updates, and essential resources to help players discover everything.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "enfosi Wiki - Guides, Characters & Updates",
+      "description": "Explore enfosi Wiki with detailed gameplay guides, character information, mechanics, updates, and essential resources to help players discover everything."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Adventure Game Guide",
+      "title": "enfosi Wiki",
+      "description": "A complete enfosi wiki providing gameplay guides, character information, mechanics, updates, and essential resources for players.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Active Codes",
+        "All Classes",
+        "Weapon Database",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Classes Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay Guide"
     },
     "updates": {
       "title": "Latest Updates",
@@ -51,27 +51,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your enfosi Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the core loop from your first wave: spot the fakes, protect the statue, and survive the early difficulties."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Classes Overview",
+          "description": "Compare every playable class and the playstyle, tools, and upgrades that make each one effective."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Weapons & Tools",
+          "description": "Choose the right loadout for every wave with our weapon database, roles, and upgrade notes."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Boss Strategy",
+          "description": "Prepare for glaggle bosses and maniac difficulty with attack patterns, prep steps, and survival tips."
         }
       ]
     },
@@ -79,78 +79,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Class Tier List",
+        "All Bosses",
+        "Active Codes"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first wave to surviving the higher difficulties.",
+          "href": "/guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
+          "description": "All working enfosi codes with rewards redeem them before they expire.",
           "href": "/codes"
         },
         {
+          "badge": "Popular",
+          "title": "Class Tier List",
+          "description": "Every playable class ranked for solo and co-op runs.",
+          "href": "/tier-list"
+        },
+        {
+          "badge": "New",
+          "title": "Weapons & Tools",
+          "description": "Full weapon database with roles, upgrades, and combat usage.",
+          "href": "/skills"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Bosses",
+          "description": "Every boss encounter with attack patterns, preparation tips, and drops.",
+          "href": "/bosses"
+        },
+        {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Maps & Waves",
+          "description": "Wave layouts, spawn points, and the best positions to hold the statue.",
+          "href": "/maps"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Classes & Races",
+          "description": "Ability breakdowns and recommended situations for every class.",
+          "href": "/races"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Difficulty Modes",
+          "description": "How maniac and smile modes scale enemies, bosses, and rewards.",
+          "href": "/guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update Notes",
+          "description": "Track the Smile More overhaul, new content, and balance changes.",
+          "href": "/guide"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is enfosi?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "enfosi is a cooperative PvE defense game on Roblox from the Tumore group. You and your team defend a statue while waves of glaggles rush toward it, spotting disguised fakes in the crowd before they reach the objective.",
+        "Each wave introduces new enemies and bosses, and you unlock weapons, tools, and classes that change how you play. Higher difficulties such as maniac mode push loadout choices and team coordination to the limit."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Tumore"
         },
         {
           "label": "Platform",
@@ -158,45 +158,175 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Co-op PvE Defense"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "12.8M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "83K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Max Players",
+          "value": "50"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Latest Update",
+          "value": "Smile More"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore enfosi Wiki",
+      "description": "Defend the statue with essential progression guides, active codes, class and weapon breakdowns, and boss strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Enfosi Beginner Guide",
+          "description": "A beginner-focused guide covering the core gameplay loop, statue defense objective, disguise identification, weapons, tools, classes, and first-run tips. This module helps new players understand the basic mechanics before entering harder waves.",
+          "href": "/guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "Step 1",
+              "detail": "Hold the line and protect the statue from incoming glaggles"
+            },
+            {
+              "label": "Step 2",
+              "detail": "Scan the crowd and identify disguised fakes before they attack"
+            },
+            {
+              "label": "Step 3",
+              "detail": "Pick a class and loadout that fits how you like to play"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Enfosi Classes Guide",
+          "description": "A class overview module explaining available classes, their abilities, playstyles, and recommended situations. Players searching for class choices and builds can quickly compare different approaches.",
+          "href": "/races",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Overview",
+              "detail": "Every playable class and its core abilities"
+            },
+            {
+              "label": "Playstyle",
+              "detail": "Which situations each class handles best"
+            },
+            {
+              "label": "Progression",
+              "detail": "How classes scale across difficulties"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Enfosi Weapons Guide",
+          "description": "A database-style module covering weapons and tools, including their roles, upgrades, and combat usage. It helps players decide which equipment fits different waves and enemy situations.",
+          "href": "/skills",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Weapons",
+              "detail": "Primary weapons for wave clear and boss damage"
+            },
+            {
+              "label": "Tools",
+              "detail": "Utility items for healing, crowd control, and support"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "How to spend rewards efficiently each run"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Enfosi Boss Guide",
+          "description": "A boss strategy section covering major enemies, attack patterns, preparation methods, and survival tips. This targets players searching for ways to defeat difficult encounters.",
+          "href": "/bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patterns",
+              "detail": "Attack telegraphs to learn before committing"
+            },
+            {
+              "label": "Preparation",
+              "detail": "Loadouts and positioning for each fight"
+            },
+            {
+              "label": "Rewards",
+              "detail": "Drops and progression tied to each boss"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Enfosi Update Guide",
+          "description": "A regularly updated module tracking major updates, new content, balance changes, and gameplay adjustments. It helps returning players understand what changed after patches.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Content",
+              "detail": "Weapons, tools, classes, and maps added in recent patches"
+            },
+            {
+              "label": "Balance",
+              "detail": "Enemy, boss, and weapon adjustments"
+            },
+            {
+              "label": "Returning Players",
+              "detail": "What changed since you last played"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Enfosi Difficulty Guide",
+          "description": "A difficulty comparison module explaining different modes, modifiers, and recommended strategies. Players can learn how challenges scale and how to prepare for tougher runs.",
+          "href": "/tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Best picks for the hardest difficulties"
+            },
+            {
+              "label": "A",
+              "detail": "Strong and reliable across most runs"
+            },
+            {
+              "label": "B",
+              "detail": "Solid with a higher skill floor"
+            },
+            {
+              "label": "C",
+              "detail": "Situational picks for coordinated teams"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Enfosi Codes",
+          "description": "A code tracking module designed for players searching for redeem codes and rewards. If no active codes exist, the section can clearly display current code availability status.",
+          "href": "/codes",
+          "displayType": "code-cards",
           "highlights": [
             {
               "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "detail": "COMING-SOON — No active codes currently available"
             },
             {
               "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "detail": "STAY-TUNED — Check back soon for new codes"
             },
             {
               "label": "Tip",
@@ -205,111 +335,23 @@
           ]
         },
         {
-          "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "order": 8,
+          "name": "Enfosi Controls Guide",
+          "description": "A controls reference module showing keyboard inputs, recommended settings, and gameplay controls. It helps new players quickly learn the basic actions needed during battles.",
+          "href": "/guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Movement",
+              "detail": "Sprint, dodge, and reposition around the statue"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Combat",
+              "detail": "Aim, reload, and switch between weapons and tools"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
-            }
-          ]
-        },
-        {
-          "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
-          "highlights": [
-            {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
-            },
-            {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
-            },
-            {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
-            }
-          ]
-        },
-        {
-          "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
-          "highlights": [
-            {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
-            },
-            {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
-            },
-            {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
-            }
-          ]
-        },
-        {
-          "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
-          "highlights": [
-            {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
-            },
-            {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
-            },
-            {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
-            }
-          ]
-        },
-        {
-          "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
-          "highlights": [
-            {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
-            },
-            {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
-            },
-            {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Settings",
+              "detail": "Sensitivity and keybinds for fast target switching"
             }
           ]
         }
@@ -317,19 +359,19 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about enfosi.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is enfosi?",
+          "answer": "enfosi is a free-to-play co-op PvE defense game on Roblox by the Tumore group. You defend a statue from waves of glaggles, identify disguised fakes in the crowd, and use weapons, tools, and classes to survive increasingly hard waves and bosses."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which class should beginners pick?",
+          "answer": "Start with a straightforward, durable class while you learn enemy patterns and wave flow, then branch into support or high-damage classes once you know the maps."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is enfosi playable on every device?",
+          "answer": "The game is best experienced on PC. Other devices work, but the developers note enfosi is designed with PC controls in mind."
         },
         {
           "question": "Where do I find active codes?",
@@ -342,20 +384,20 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master enfosi?",
+      "description": "From your first wave defending the statue to endgame boss fights, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | enfosi Wiki",
+      "description": "Complete boss guides for enfosi — every glaggle boss and maniac-mode encounter with strategies, prep tips, and drops."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in enfosi, from early wave glaggles to the toughest maniac-mode challenges.",
+    "body": "Bosses in enfosi arrive as special waves that test how well your team handles pressure. Early bosses introduce new enemy behaviours and telegraphs, while later encounters combine multiple threats and demand coordinated positioning, crowd control, and the right loadout. Because waves scale with difficulty, the same boss can feel very different on standard and maniac settings. Use the guides below to learn attack patterns, preparation steps, and the rewards tied to each fight.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -379,21 +421,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "enfosi Wiki",
+    "about": "enfosi Wiki is an independent fan-built guide hub covering classes, weapons, bosses, waves, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 enfosi Wiki. Not affiliated with Tumore or Roblox.",
+    "description": "Free co-op defense game on Roblox. Defend the statue, spot the fakes, and master every class.",
+    "playGame": "Play enfosi on Roblox",
+    "officialDiscord": "Official Roblox Group",
+    "officialYoutube": "Developer YouTube",
+    "vvBuilder": "enfosi Wiki Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Class Guides",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "buildGuide": "Build Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
