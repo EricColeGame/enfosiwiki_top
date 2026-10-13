@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "modes": "Modes",
+    "progression": "Progression",
+    "maps": "Maps",
+    "controls": "Controls"
   },
   "home": {
     "meta": {
@@ -413,7 +420,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "enfosi Guide",
+    "overviewDescription": "Start here for enfosi walkthroughs, how-to-play breakdowns, tips and tricks, and beginner strategies that cover classes, weapons, waves, and progression in one place."
+  },
+  "characters": {
+    "overviewTitle": "enfosi Characters",
+    "overviewDescription": "Every playable enfosi character and class explained, including the Cheerer, Risio, and Gleeber kits, team roles, builds, and the full character tier list."
+  },
+  "combat": {
+    "overviewTitle": "enfosi Combat & Bosses",
+    "overviewDescription": "enfosi boss and enemy guides, weapon breakdowns, and tier lists covering the first wave through the final boss, with counters and loadout advice for each fight."
+  },
+  "modes": {
+    "overviewTitle": "enfosi Modes & Waves",
+    "overviewDescription": "How enfosi game modes work, including Smile Mode, Maniac Mode, wave modifiers, and the Smile More update, with tactics for every difficulty setting."
+  },
+  "progression": {
+    "overviewTitle": "enfosi Progression & Ranks",
+    "overviewDescription": "Level up faster in enfosi with guides to ranks, badges, levels, money farming, and currency spending so you can afford upgrades every run."
+  },
+  "maps": {
+    "overviewTitle": "enfosi Maps",
+    "overviewDescription": "Navigate every enfosi map, from Glaggleland and Gemboland to Glaggle, with lane layouts, zone tips, and survival strategies for each arena."
+  },
+  "controls": {
+    "overviewTitle": "enfosi Controls & IDs",
+    "overviewDescription": "A full enfosi controls reference covering keybinds, gamepad setup, console commands, and the music and sound IDs used in the game."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -446,7 +480,7 @@
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Class Guides",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guides",
+    "weaponsGuide": "Weapons Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
