@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "enfosi Wiki",
+  shortName: "enfosi",
+  logoText: "E",
+  tagline: "Complete Guides, Characters, Mechanics & Updates",
+  description: "Explore enfosi Wiki with detailed gameplay guides, character information, mechanics, updates, and essential resources to help players discover everything.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://enfosiwiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://enfosiwiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/78353262320982/Enfosi",
+  heroVideoId: "xHPrS4uEn7s", // Enfosi - Beginner Guide (gameplay tutorial)
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
