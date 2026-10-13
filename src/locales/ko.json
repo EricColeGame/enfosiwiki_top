@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "enfosi Wiki",
+    "shortName": "enfosi",
+    "tagline": "완벽 가이드, 캐릭터, 메커니즘 & 업데이트 정보",
+    "description": "enfosi Wiki에서 상세한 게임플레이 가이드, 캐릭터 정보, 메커니즘, 업데이트, 그리고 플레이어가 모든 것을 파악하는 데 필요한 필수 자료를 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "characters": "캐릭터",
+    "combat": "전투",
+    "modes": "모드",
+    "progression": "성장",
+    "maps": "맵",
+    "controls": "조작"
+  },
+  "home": {
+    "meta": {
+      "title": "enfosi Wiki - 가이드, 캐릭터 & 업데이트",
+      "description": "enfosi Wiki에서 상세한 게임플레이 가이드, 캐릭터 정보, 메커니즘, 업데이트, 그리고 플레이어가 모든 것을 파악하는 데 필요한 필수 자료를 확인하세요."
+    },
+    "hero": {
+      "eyebrow": "어드벤처 게임 가이드",
+      "title": "enfosi Wiki",
+      "description": "플레이어를 위한 게임플레이 가이드, 캐릭터 정보, 메커니즘, 업데이트, 필수 자료를 담은 완전판 enfosi 위키입니다.",
+      "stats": [
+        "사용 가능 코드",
+        "전체 클래스",
+        "무기 데이터베이스",
+        "주간 업데이트"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "클래스 가이드",
+      "tertiaryCta": "사용 가능 코드",
+      "videoLabel": "게임플레이 가이드"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "enfosi 여정을 시작하세요",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "첫 웨이브부터 핵심 루프를 익히세요. 방어선을 유지하고 조각상을 지키며 초반의 난관을 버텨냅니다."
+        },
+        {
+          "number": "2",
+          "title": "클래스 개요",
+          "description": "서포트 오라부터 보스 특화 딜러까지 모든 클래스를 비교하고 주력 캐릭터를 정하세요."
+        },
+        {
+          "number": "3",
+          "title": "무기와 도구",
+          "description": "무기 순위, 역할, 업그레이드 정보를 참고해 각 단계에 맞는 장비를 고르세요."
+        },
+        {
+          "number": "4",
+          "title": "보스 공략",
+          "description": "공격 패턴, 안전한 타이밍, 준비 단계, 필요한 장비를 파악해 각 보스에 대비하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 글",
+      "quickLinks": [
+        "초보자 가이드",
+        "클래스 티어 리스트",
+        "전체 보스",
+        "사용 가능 코드"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "첫 웨이브부터 고난도 모드 생존까지 필요한 모든 것.",
+          "href": "/guide/enfosi-beginner-guide"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "골드와 재화",
+          "description": "재화 획득처, 파밍 루프, 그리고 골드를 현명하게 쓰는 방법.",
+          "href": "/progression/enfosi-currency"
+        },
+        {
+          "badge": "인기",
+          "title": "클래스 티어 리스트",
+          "description": "솔로와 협동 모두를 위한 전체 클래스 순위.",
+          "href": "/characters/enfosi-character-tier-list"
+        },
+        {
+          "badge": "신규",
+          "title": "무기와 도구",
+          "description": "역할, 업그레이드, 전투 활용법을 담은 전체 무기 데이터베이스.",
+          "href": "/combat/enfosi-weapons"
+        },
+        {
+          "badge": "인기",
+          "title": "전체 보스",
+          "description": "공격 패턴, 준비 팁, 드롭까지 모든 보스 전투를 정리.",
+          "href": "/combat/enfosi-all-bosses"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "맵과 웨이브",
+          "description": "웨이브 배치, 스폰 지점, 조각상을 지키기 좋은 최적의 위치.",
+          "href": "/maps/enfosi-maps"
+        },
+        {
+          "badge": "인기",
+          "title": "클래스와 캐릭터",
+          "description": "모든 클래스의 능력 분석과 추천 운용 상황.",
+          "href": "/characters/enfosi-classes"
+        },
+        {
+          "badge": "신규",
+          "title": "난이도 모드",
+          "description": "Maniac과 Smile 모드에서 적, 보스, 보상이 어떻게 달라지는지.",
+          "href": "/modes/enfosi-maniac-mode"
+        },
+        {
+          "badge": "신규",
+          "title": "업데이트 노트",
+          "description": "Smile More 대개편, 신규 콘텐츠, 밸런스 변경을 추적.",
+          "href": "/modes/enfosi-smile-more-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "enfosi란 무엇인가요?",
+      "paragraphs": [
+        "enfosi는 Tumore 그룹이 만든 Roblox 협동 웨이브 디펜스 게임입니다. 여러분과 팀은 방어선을 유지하며 몰려오는 glaggles의 물결로부터 조각상을 지켜냅니다. 라운드 사이에 골드를 획득해 무기, 아이템, 업그레이드에 사용할 수 있습니다.",
+        "매 런마다 난이도는 높아집니다. 처치가 느리면 웨이브가 쌓이고, 보스는 새로운 메커니즘과 함께 등장하며, Cheerer, Risio, Gleeber 같은 클래스가 팀의 방어 방식을 바꿔 놓습니다. Maniac 같은 고난도 모드에서는 빌드와 협동이 한계까지 시험됩니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Tumore"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Roblox"
+        },
+        {
+          "label": "장르",
+          "value": "협동 웨이브 디펜스"
+        },
+        {
+          "label": "클래스",
+          "value": "Cheerer, Risio, Gleeber"
+        },
+        {
+          "label": "난이도 모드",
+          "value": "Maniac & Smile"
+        },
+        {
+          "label": "대표 맵",
+          "value": "Glaggleland"
+        },
+        {
+          "label": "최신 업데이트",
+          "value": "Smile More"
+        }
+      ],
+      "cta": "모든 가이드 둘러보기"
+    },
+    "explore": {
+      "title": "enfosi Wiki 둘러보기",
+      "description": "성장 가이드, 클래스와 무기 분석, 보스 전략, 최신 업데이트 소식을 한데 모아 조각상을 지켜내세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Enfosi 초보자 가이드",
+          "description": "핵심 게임 루프, 조각상 방어 목표, 위장 식별, 무기, 도구, 클래스, 첫 플레이 팁을 다루는 초보자 중심 가이드입니다. 더 어려운 웨이브에 들어가기 전에 기본 메커니즘을 이해하는 데 도움이 됩니다.",
+          "href": "/guide/enfosi-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "방어선을 유지하고 초반 웨이브를 넘겨 조각상을 지켜내기"
+            },
+            {
+              "label": "2",
+              "detail": "처치가 느려 웨이브가 쌓이기 전에 각 적 유형 익히기"
+            },
+            {
+              "label": "3",
+              "detail": "자신의 플레이 스타일에 맞는 클래스 선택하기"
+            },
+            {
+              "label": "4",
+              "detail": "후반의 비싼 아이템 하나를 모으기보다 초반 업그레이드에 골드 사용하기"
+            },
+            {
+              "label": "5",
+              "detail": "적 웨이브를 병목 지점으로 유도해 팀이 집중 공격하도록 하기"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Enfosi 클래스 가이드",
+          "description": "사용 가능한 클래스와 그 능력, 플레이 스타일, 추천 상황을 설명하는 클래스 개요 모듈입니다. 클래스 선택과 빌드를 찾는 플레이어가 다양한 선택지를 빠르게 비교할 수 있습니다.",
+          "href": "/characters/enfosi-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cheerer",
+              "detail": "팀 오라와 군중 제어를 중심으로 한 서포트 클래스"
+            },
+            {
+              "label": "Risio",
+              "detail": "기동력과 강력한 보스 딜을 겸비한 하이브리드 파이터"
+            },
+            {
+              "label": "Gleeber",
+              "detail": "세팅을 즐기는 플레이어를 위한 빠르고 테크니컬한 선택"
+            },
+            {
+              "label": "순위",
+              "detail": "각 클래스가 티어 리스트에서 어디에 위치하는지 확인"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Enfosi 무기 가이드",
+          "description": "무기와 도구의 역할, 업그레이드, 전투 활용법을 다루는 데이터베이스형 모듈입니다. 웨이브와 적 상황에 어떤 장비가 맞는지 판단하는 데 도움이 됩니다.",
+          "href": "/combat/enfosi-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "티어 리스트",
+              "detail": "피해량, 성장성, 사용 편의성으로 전체 무기 순위 매기기"
+            },
+            {
+              "label": "추천 픽",
+              "detail": "웨이브 정리와 보스전에 강한 최고의 무기"
+            },
+            {
+              "label": "장비 구성",
+              "detail": "각 클래스에 어울리는 무기와 아이템 조합"
+            },
+            {
+              "label": "업그레이드",
+              "detail": "가장 큰 전력 상승을 얻기 위해 재화를 쓸 곳"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Enfosi 보스 가이드",
+          "description": "주요 적, 공격 패턴, 준비 방법, 생존 팁을 다루는 보스 전략 섹션입니다. 어려운 전투를 돌파할 방법을 찾는 플레이어를 겨냥합니다.",
+          "href": "/combat/enfosi-all-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "첫 보스",
+              "detail": "첫 번째 본격적인 난이도 상승에 어떻게 대비할지"
+            },
+            {
+              "label": "Borgack",
+              "detail": "공격 패턴, 안전한 타이밍, 필요한 장비"
+            },
+            {
+              "label": "Gergro",
+              "detail": "전투와 소환수를 버텨내기 위한 위치 선정 요령"
+            },
+            {
+              "label": "최종 보스",
+              "detail": "후반 페이즈, 드롭, 보상 정보"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Enfosi 업데이트 가이드",
+          "description": "주요 업데이트, 신규 콘텐츠, 밸런스 변경, 게임플레이 조정을 추적하는 정기 갱신 모듈입니다. 복귀 플레이어가 패치 후 달라진 점을 파악하는 데 도움이 됩니다.",
+          "href": "/modes/enfosi-smile-more-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Smile More",
+              "detail": "Smile More 업데이트로 웨이브, 클래스, 보상이 개편됨"
+            },
+            {
+              "label": "신규 모드",
+              "detail": "새로 익혀야 할 모드 변형과 모디파이어"
+            },
+            {
+              "label": "밸런스",
+              "detail": "현재 메타를 바꾸는 클래스와 적 조정"
+            },
+            {
+              "label": "신규 장비",
+              "detail": "최근 패치로 추가된 무기와 아이템"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Enfosi 난이도 가이드",
+          "description": "각 모드, 모디파이어, 추천 전략을 설명하는 난이도 비교 모듈입니다. 난이도가 어떻게 올라가는지, 더 힘든 런에 어떻게 대비할지 배울 수 있습니다.",
+          "href": "/modes/enfosi-maniac-mode",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Maniac 모드 - 가장 어려운 규칙, 위험 발생이 빠르고 회복량 감소"
+            },
+            {
+              "label": "A",
+              "detail": "Smile 모드 - 웨이브가 가속되고 능력 쿨다운이 단축됨"
+            },
+            {
+              "label": "B",
+              "detail": "Veteran - 표준 규칙보다 빡빡한 패널티 구간"
+            },
+            {
+              "label": "C",
+              "detail": "Standard - 모든 맵을 익히기 위한 기준 웨이브 진행"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Enfosi 코드",
+          "description": "교환 코드와 보상을 찾는 플레이어를 위한 코드 추적 모듈입니다. 사용 가능한 코드가 없더라도 현재 코드 제공 상황을 명확히 표시할 수 있습니다.",
+          "href": "/progression/enfosi-currency",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "없음",
+              "detail": "현재 enfosi에서 작동하는 교환 코드는 없습니다"
+            },
+            {
+              "label": "상태",
+              "detail": "확인되는 즉시 새 코드를 이 페이지에서 추적합니다"
+            },
+            {
+              "label": "보상",
+              "detail": "현재 무료 보상은 배지, 랭크, 이벤트에서 얻을 수 있습니다"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Enfosi 조작 가이드",
+          "description": "키보드 입력, 추천 설정, 게임플레이 조작을 보여주는 조작 참조 모듈입니다. 초보자가 전투 중 필요한 기본 동작을 빠르게 익힐 수 있습니다.",
+          "href": "/controls/enfosi-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "조각상 주변을 이동하고 위치를 잡기"
+            },
+            {
+              "label": "Shift",
+              "detail": "질주 - 누르고 있는 동안 스태미나 소모"
+            },
+            {
+              "label": "Space",
+              "detail": "낮은 장애물과 지형을 뛰어넘기"
+            },
+            {
+              "label": "LMB",
+              "detail": "기본 공격 또는 도구 사용"
+            },
+            {
+              "label": "RMB",
+              "detail": "들어오는 피해를 막거나 조준하기"
+            },
+            {
+              "label": "E",
+              "detail": "오브젝트, 문, NPC와 상호작용하기"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "enfosi에 관한 가장 흔한 질문에 대한 빠른 답변.",
+      "items": [
+        {
+          "question": "enfosi는 무엇인가요?",
+          "answer": "enfosi는 Tumore 그룹이 만든 Roblox 협동 웨이브 디펜스 게임입니다. 여러분과 팀은 몰려오는 glaggles의 물결로부터 조각상을 지키고, 라운드 사이에 골드를 벌어 무기, 아이템, 업그레이드에 사용합니다."
+        },
+        {
+          "question": "초보자는 어떤 enfosi 클래스를 골라야 하나요?",
+          "answer": "웨이브 타이밍과 보스 패턴을 익히는 동안에는 다루기 쉬운 전방 클래스로 시작하고, 맵을 익힌 뒤 서포트나 딜러로 확장하세요."
+        },
+        {
+          "question": "enfosi Maniac 모드는 얼마나 어렵나요?",
+          "answer": "Maniac 모드는 enfosi에서 가장 가혹한 규칙입니다. 적의 공격이 겹치고, 위험이 더 빠르게 발동하며, 회복량이 줄어들어 순수 피해량보다 위치 선정과 쿨다운 관리가 더 중요합니다."
+        },
+        {
+          "question": "enfosi에 사용 가능한 코드가 있나요?",
+          "answer": "enfosi에는 현재 작동하는 교환 코드가 없습니다. 이 위키는 코드 상태를 추적하고 확인되는 즉시 새 보상을 게시합니다."
+        },
+        {
+          "question": "enfosi에서 돈을 버는 방법은?",
+          "answer": "웨이브를 효율적으로 정리하고, 필요 없는 드롭은 판매하거나 분해하며, 후반의 비싼 아이템 하나를 모으기보다 정리 속도를 높이는 업그레이드에 일찍 재투자하세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "enfosi를 마스터할 준비가 되셨나요?",
+      "description": "조각상을 지키는 첫 웨이브부터 최종 보스전까지, 커뮤니티 위키가 무료 최신 가이드로 함께합니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Roblox에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "enfosi 가이드",
+    "overviewDescription": "enfosi 워크스루, 플레이 방법 분석, 팁과 요령, 초보자 전략을 여기서 시작하세요. 클래스, 무기, 웨이브, 성장을 한곳에서 다룹니다."
+  },
+  "characters": {
+    "overviewTitle": "enfosi 캐릭터",
+    "overviewDescription": "Cheerer, Risio, Gleeber 키트, 팀 역할, 빌드, 전체 캐릭터 티어 리스트까지 사용 가능한 모든 enfosi 캐릭터와 클래스를 설명합니다."
+  },
+  "combat": {
+    "overviewTitle": "enfosi 전투와 보스",
+    "overviewDescription": "첫 웨이브부터 최종 보스까지 enfosi 보스와 적 가이드, 무기 분석, 티어 리스트를 아우르며 각 전투의 대응법과 장비 조언을 제공합니다."
+  },
+  "modes": {
+    "overviewTitle": "enfosi 모드와 웨이브",
+    "overviewDescription": "Smile 모드, Maniac 모드, 웨이브 모디파이어, Smile More 업데이트 등 enfosi 게임 모드의 작동 방식과 모든 난이도의 전술을 설명합니다."
+  },
+  "progression": {
+    "overviewTitle": "enfosi 성장과 랭크",
+    "overviewDescription": "랭크, 배지, 레벨, 골드 파밍, 재화 사용 가이드로 enfosi에서 더 빠르게 성장해 매 런마다 업그레이드를 구매할 수 있게 됩니다."
+  },
+  "maps": {
+    "overviewTitle": "enfosi 맵",
+    "overviewDescription": "Glaggleland와 Gemboland부터 Glaggle까지 모든 enfosi 맵의 레인 배치, 구역 팁, 각 아레나의 생존 전략을 안내합니다."
+  },
+  "controls": {
+    "overviewTitle": "enfosi 조작과 ID",
+    "overviewDescription": "키 바인딩, 게임패드 설정, 콘솔 명령어, 게임에서 사용하는 음악 및 효과음 ID까지 담은 완전한 enfosi 조작 참조 자료입니다."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능 코드",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 글",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "enfosi Wiki",
+    "about": "enfosi Wiki는 클래스, 무기, 보스, 웨이브, 그리고 필수 게임 지식을 신규와 베테랑 플레이어 모두에게 제공하는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 enfosi Wiki. Tumore 또는 Roblox와 제휴하지 않았습니다.",
+    "description": "Roblox 무료 협동 디펜스 게임. 조각상을 지키고, 가짜를 가려내고, 모든 클래스를 마스터하세요.",
+    "playGame": "Roblox에서 enfosi 플레이",
+    "officialDiscord": "공식 Roblox 그룹",
+    "officialYoutube": "개발자 YouTube",
+    "vvBuilder": "enfosi Wiki 가이드",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "클래스 가이드",
+    "bossGuides": "보스 가이드",
+    "weaponsGuide": "무기 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}

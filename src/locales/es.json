@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "enfosi Wiki",
+    "shortName": "enfosi",
+    "tagline": "Guías completas, personajes, mecánicas y novedades",
+    "description": "Explora enfosi Wiki con guías de juego detalladas, información de personajes, mecánicas, novedades y recursos esenciales para que los jugadores lo descubran todo.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "combat": "Combate",
+    "modes": "Modos",
+    "progression": "Progresión",
+    "maps": "Mapas",
+    "controls": "Controles"
+  },
+  "home": {
+    "meta": {
+      "title": "enfosi Wiki - Guías, personajes y novedades",
+      "description": "Explora enfosi Wiki con guías de juego detalladas, información de personajes, mecánicas, novedades y recursos esenciales para que los jugadores lo descubran todo."
+    },
+    "hero": {
+      "eyebrow": "Guía de juego de aventuras",
+      "title": "enfosi Wiki",
+      "description": "Una wiki completa de enfosi con guías de juego, información de personajes, mecánicas, novedades y recursos esenciales para los jugadores.",
+      "stats": [
+        "Códigos activos",
+        "Todas las clases",
+        "Base de datos de armas",
+        "Novedades semanales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía de clases",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Guía de juego"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en enfosi",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el bucle básico desde tu primera oleada: mantén la línea, conserva la estatua y sobrevive a las dificultades iniciales."
+        },
+        {
+          "number": "2",
+          "title": "Resumen de clases",
+          "description": "Compara todas las clases, desde auras de apoyo hasta daño para jefes, antes de decidir tu personaje principal."
+        },
+        {
+          "number": "3",
+          "title": "Armas y herramientas",
+          "description": "Elige el equipo adecuado para cada fase con rankings de armas, roles y notas de mejora."
+        },
+        {
+          "number": "4",
+          "title": "Estrategia contra jefes",
+          "description": "Prepárate para cada jefe con patrones de ataque, ventanas seguras, pasos previos y el equipo necesario."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Lista de niveles de clases",
+        "Todos los jefes",
+        "Códigos activos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primera oleada hasta sobrevivir a las dificultades más altas.",
+          "href": "/guide/enfosi-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Dinero y moneda",
+          "description": "Fuentes de moneda, bucles de farmeo y cómo gastar tu oro con cabeza.",
+          "href": "/progression/enfosi-currency"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de niveles de clases",
+          "description": "Todas las clases jugables clasificadas para partidas en solitario y cooperativas.",
+          "href": "/characters/enfosi-character-tier-list"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Armas y herramientas",
+          "description": "Base de datos completa de armas con roles, mejoras y uso en combate.",
+          "href": "/combat/enfosi-weapons"
+        },
+        {
+          "badge": "Popular",
+          "title": "Todos los jefes",
+          "description": "Cada encuentro con jefes con patrones de ataque, consejos de preparación y botín.",
+          "href": "/combat/enfosi-all-bosses"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Mapas y oleadas",
+          "description": "Diseño de oleadas, puntos de aparición y las mejores posiciones para defender la estatua.",
+          "href": "/maps/enfosi-maps"
+        },
+        {
+          "badge": "Popular",
+          "title": "Clases y personajes",
+          "description": "Análisis de habilidades y situaciones recomendadas para cada clase.",
+          "href": "/characters/enfosi-classes"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Modos de dificultad",
+          "description": "Cómo los modos maniac y smile escalan enemigos, jefes y recompensas.",
+          "href": "/modes/enfosi-maniac-mode"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Notas de actualización",
+          "description": "Sigue la renovación Smile More, el contenido nuevo y los cambios de equilibrio.",
+          "href": "/modes/enfosi-smile-more-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es enfosi?",
+      "paragraphs": [
+        "enfosi es un juego cooperativo de defensa por oleadas en Roblox del grupo Tumore. Tú y tu equipo mantenéis la línea y conserváis una estatua en pie mientras oleadas de glaggles avanzan hacia ella, ganando oro entre rondas para gastarlo en armas, objetos y mejoras.",
+        "Cada partida escala: las eliminaciones lentas hacen que las oleadas se acumulen, los jefes llegan con nuevas mecánicas y clases como Cheerer, Risio y Gleeber cambian la forma en que tu equipo mantiene la línea. Los modos de mayor dificultad como Maniac llevan las builds y la coordinación al límite."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Tumore"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Defensa por oleadas cooperativa"
+        },
+        {
+          "label": "Clases",
+          "value": "Cheerer, Risio, Gleeber"
+        },
+        {
+          "label": "Modos de dificultad",
+          "value": "Maniac y Smile"
+        },
+        {
+          "label": "Mapa destacado",
+          "value": "Glaggleland"
+        },
+        {
+          "label": "Última actualización",
+          "value": "Smile More"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora enfosi Wiki",
+      "description": "Defiende la estatua con guías de progresión, análisis de clases y armas, estrategias contra jefes y cobertura de las últimas novedades.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Enfosi",
+          "description": "Una guía centrada en principiantes que cubre el bucle de juego básico, el objetivo de defender la estatua, la identificación de disfraces, armas, herramientas, clases y consejos para la primera partida. Este módulo ayuda a los nuevos jugadores a entender las mecánicas básicas antes de entrar en oleadas más difíciles.",
+          "href": "/guide/enfosi-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Mantén la línea y conserva la estatua en pie durante las primeras oleadas"
+            },
+            {
+              "label": "2",
+              "detail": "Aprende cada tipo de enemigo antes de que las eliminaciones lentas acumulen oleadas"
+            },
+            {
+              "label": "3",
+              "detail": "Elige una clase que encaje con tu forma de jugar"
+            },
+            {
+              "label": "4",
+              "detail": "Gasta oro en mejoras tempranas en vez de ahorrar para un objeto caro de final de partida"
+            },
+            {
+              "label": "5",
+              "detail": "Canaliza las oleadas por puntos de estrangulamiento para que tu equipo concentre el fuego"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de clases de Enfosi",
+          "description": "Un módulo de resumen de clases que explica las clases disponibles, sus habilidades, estilos de juego y situaciones recomendadas. Los jugadores que buscan opciones de clase y builds pueden comparar rápidamente distintos enfoques.",
+          "href": "/characters/enfosi-classes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cheerer",
+              "detail": "Clase de apoyo centrada en auras para el equipo y control de masas"
+            },
+            {
+              "label": "Risio",
+              "detail": "Luchador híbrido con movilidad y gran daño contra jefes"
+            },
+            {
+              "label": "Gleeber",
+              "detail": "Elección rápida y técnica para quienes disfrutan de las preparaciones"
+            },
+            {
+              "label": "Rankings",
+              "detail": "Descubre en qué puesto queda cada clase en la lista de niveles"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de armas de Enfosi",
+          "description": "Un módulo tipo base de datos que cubre armas y herramientas, incluidos sus roles, mejoras y uso en combate. Ayuda a los jugadores a decidir qué equipo encaja con cada oleada y situación de enemigos.",
+          "href": "/combat/enfosi-weapons",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lista de niveles",
+              "detail": "Todas las armas clasificadas por daño, escalado y facilidad de uso"
+            },
+            {
+              "label": "Mejores opciones",
+              "detail": "Las mejores armas para limpiar oleadas y pelear contra jefes"
+            },
+            {
+              "label": "Equipos",
+              "detail": "Combinaciones de armas y objetos que encajan con cada clase"
+            },
+            {
+              "label": "Mejoras",
+              "detail": "Dónde gastar la moneda para el mayor salto de poder"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de jefes de Enfosi",
+          "description": "Una sección de estrategia contra jefes que cubre enemigos importantes, patrones de ataque, métodos de preparación y consejos de supervivencia. Está dirigida a jugadores que buscan formas de superar encuentros difíciles.",
+          "href": "/combat/enfosi-all-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Primer jefe",
+              "detail": "Cómo prepararse para el primer gran salto de dificultad"
+            },
+            {
+              "label": "Borgack",
+              "detail": "Patrones de ataque, ventanas seguras y el equipo que necesitas"
+            },
+            {
+              "label": "Gergro",
+              "detail": "Notas de posicionamiento para sobrevivir a la pelea y a sus esbirros"
+            },
+            {
+              "label": "Jefe final",
+              "detail": "Fases finales, botín y detalles de recompensas"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de actualizaciones de Enfosi",
+          "description": "Un módulo actualizado con regularidad que sigue las novedades importantes, el contenido nuevo, los cambios de equilibrio y los ajustes de jugabilidad. Ayuda a los jugadores que regresan a entender qué cambió tras los parches.",
+          "href": "/modes/enfosi-smile-more-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Smile More",
+              "detail": "La actualización Smile More renovó oleadas, clases y recompensas"
+            },
+            {
+              "label": "Nuevos modos",
+              "detail": "Nuevas variantes de modo y modificadores que aprender"
+            },
+            {
+              "label": "Equilibrio",
+              "detail": "Ajustes de clases y enemigos que cambian el meta actual"
+            },
+            {
+              "label": "Equipo nuevo",
+              "detail": "Armas y objetos añadidos en parches recientes"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de dificultad de Enfosi",
+          "description": "Un módulo de comparación de dificultad que explica los distintos modos, modificadores y estrategias recomendadas. Los jugadores pueden aprender cómo escala el desafío y cómo prepararse para partidas más duras.",
+          "href": "/modes/enfosi-maniac-mode",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Modo Maniac: el conjunto de reglas más duro, con peligros más rápidos y curación reducida"
+            },
+            {
+              "label": "A",
+              "detail": "Modo Smile: oleadas aceleradas y tiempos de reutilización de habilidades reducidos"
+            },
+            {
+              "label": "B",
+              "detail": "Veteran: ventanas de castigo más ajustadas que el conjunto estándar"
+            },
+            {
+              "label": "C",
+              "detail": "Standard: ritmo de oleadas base para aprender cada mapa"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Códigos de Enfosi",
+          "description": "Un módulo de seguimiento de códigos diseñado para jugadores que buscan códigos canjeables y recompensas. Si no existen códigos activos, la sección puede mostrar claramente el estado actual de disponibilidad de códigos.",
+          "href": "/progression/enfosi-currency",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Ninguno",
+              "detail": "No hay códigos canjeables activos para enfosi ahora mismo"
+            },
+            {
+              "label": "Estado",
+              "detail": "Esta página sigue los códigos nuevos en cuanto se confirman"
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Las recompensas gratuitas actuales provienen de insignias, rangos y eventos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de controles de Enfosi",
+          "description": "Un módulo de referencia de controles que muestra las entradas de teclado, los ajustes recomendados y los controles de juego. Ayuda a los nuevos jugadores a aprender rápidamente las acciones básicas necesarias durante las batallas.",
+          "href": "/controls/enfosi-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Muévete y reposiciónate alrededor de la estatua"
+            },
+            {
+              "label": "Shift",
+              "detail": "Esprintar: consume resistencia mientras se mantiene pulsado"
+            },
+            {
+              "label": "Space",
+              "detail": "Salta sobre obstáculos bajos y terreno"
+            },
+            {
+              "label": "LMB",
+              "detail": "Ataque principal o uso de herramienta"
+            },
+            {
+              "label": "RMB",
+              "detail": "Bloquea el daño entrante o apunta"
+            },
+            {
+              "label": "E",
+              "detail": "Interactúa con objetos, puertas y PNJ"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre enfosi.",
+      "items": [
+        {
+          "question": "¿Qué es enfosi?",
+          "answer": "enfosi es un juego cooperativo de defensa por oleadas en Roblox del grupo Tumore. Tú y tu equipo defendéis una estatua de las oleadas de glaggles, ganáis oro entre rondas y lo gastáis en armas, objetos y mejoras."
+        },
+        {
+          "question": "¿Qué clase de enfosi deberían elegir los principiantes?",
+          "answer": "Empieza con una clase de primera línea indulgente mientras aprendes los tiempos de las oleadas y los patrones de los jefes, y luego pásate al apoyo o al daño cuando conozcas los mapas."
+        },
+        {
+          "question": "¿Qué dificultad tiene el modo maniac de enfosi?",
+          "answer": "El modo Maniac es el conjunto de reglas más duro de enfosi. Los enemigos solapan sus ataques, los peligros se activan más rápido y la curación se reduce, así que el posicionamiento y los tiempos de reutilización importan más que el daño bruto."
+        },
+        {
+          "question": "¿enfosi tiene códigos activos?",
+          "answer": "enfosi no tiene actualmente códigos canjeables que funcionen. Esta wiki sigue el estado de los códigos y publica nuevas recompensas en cuanto se confirman."
+        },
+        {
+          "question": "¿Cómo gano dinero en enfosi?",
+          "answer": "Limpia las oleadas con eficiencia, vende o desguaza el botín que no necesites y reinvierte pronto en mejoras que aumenten tu velocidad de limpieza en vez de ahorrar para un objeto caro de final de partida."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar enfosi?",
+      "description": "Desde tu primera oleada defendiendo la estatua hasta las peleas contra jefes del final del juego, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de enfosi",
+    "overviewDescription": "Empieza aquí para ver recorridos de enfosi, análisis de cómo jugar, trucos y consejos, y estrategias para principiantes que cubren clases, armas, oleadas y progresión en un solo lugar."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de enfosi",
+    "overviewDescription": "Todos los personajes y clases jugables de enfosi explicados, incluidos los kits de Cheerer, Risio y Gleeber, los roles de equipo, las builds y la lista completa de niveles de personajes."
+  },
+  "combat": {
+    "overviewTitle": "Combate y jefes de enfosi",
+    "overviewDescription": "Guías de jefes y enemigos de enfosi, análisis de armas y listas de niveles que cubren desde la primera oleada hasta el jefe final, con contraestrategias y consejos de equipo para cada pelea."
+  },
+  "modes": {
+    "overviewTitle": "Modos y oleadas de enfosi",
+    "overviewDescription": "Cómo funcionan los modos de juego de enfosi, incluidos Smile Mode, Maniac Mode, los modificadores de oleada y la actualización Smile More, con tácticas para cada nivel de dificultad."
+  },
+  "progression": {
+    "overviewTitle": "Progresión y rangos de enfosi",
+    "overviewDescription": "Sube de nivel más rápido en enfosi con guías de rangos, insignias, niveles, farmeo de dinero y gasto de moneda para que puedas permitirte mejoras en cada partida."
+  },
+  "maps": {
+    "overviewTitle": "Mapas de enfosi",
+    "overviewDescription": "Recorre todos los mapas de enfosi, desde Glaggleland y Gemboland hasta Glaggle, con diseños de carriles, consejos por zona y estrategias de supervivencia para cada arena."
+  },
+  "controls": {
+    "overviewTitle": "Controles e IDs de enfosi",
+    "overviewDescription": "Una referencia completa de controles de enfosi que cubre atajos de teclado, configuración de mando, comandos de consola y los IDs de música y sonido usados en el juego."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "enfosi Wiki",
+    "about": "enfosi Wiki es un centro de guías independiente hecho por fans que cubre clases, armas, jefes, oleadas y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 enfosi Wiki. Sin afiliación con Tumore ni Roblox.",
+    "description": "Juego gratuito de defensa cooperativa en Roblox. Defiende la estatua, detecta a los impostores y domina todas las clases.",
+    "playGame": "Jugar a enfosi en Roblox",
+    "officialDiscord": "Grupo oficial de Roblox",
+    "officialYoutube": "YouTube del desarrollador",
+    "vvBuilder": "Guías de enfosi Wiki",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de clases",
+    "bossGuides": "Guías de jefes",
+    "weaponsGuide": "Guía de armas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
