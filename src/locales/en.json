@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the core loop from your first wave: spot the fakes, protect the statue, and survive the early difficulties."
+          "description": "Learn the core loop from your first wave: hold the line, keep the statue alive, and survive the early difficulties."
         },
         {
           "number": "2",
           "title": "Classes Overview",
-          "description": "Compare every playable class and the playstyle, tools, and upgrades that make each one effective."
+          "description": "Compare every class, from support auras to boss-killing damage, before you commit to a main."
         },
         {
           "number": "3",
           "title": "Weapons & Tools",
-          "description": "Choose the right loadout for every wave with our weapon database, roles, and upgrade notes."
+          "description": "Choose the right loadout for every stage of a run with weapon rankings, roles, and upgrade notes."
         },
         {
           "number": "4",
           "title": "Boss Strategy",
-          "description": "Prepare for glaggle bosses and maniac difficulty with attack patterns, prep steps, and survival tips."
+          "description": "Prepare for each boss with attack patterns, safe windows, prep steps, and the gear you need."
         }
       ]
     },
@@ -76,63 +76,63 @@
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first wave to surviving the higher difficulties.",
-          "href": "/guide"
+          "href": "/guide/enfosi-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working enfosi codes with rewards redeem them before they expire.",
-          "href": "/codes"
+          "title": "Money & Currency",
+          "description": "Currency sources, farming loops, and how to spend your gold wisely.",
+          "href": "/progression/enfosi-currency"
         },
         {
           "badge": "Popular",
           "title": "Class Tier List",
           "description": "Every playable class ranked for solo and co-op runs.",
-          "href": "/tier-list"
+          "href": "/characters/enfosi-character-tier-list"
         },
         {
           "badge": "New",
           "title": "Weapons & Tools",
           "description": "Full weapon database with roles, upgrades, and combat usage.",
-          "href": "/skills"
+          "href": "/combat/enfosi-weapons"
         },
         {
           "badge": "Popular",
           "title": "All Bosses",
           "description": "Every boss encounter with attack patterns, preparation tips, and drops.",
-          "href": "/bosses"
+          "href": "/combat/enfosi-all-bosses"
         },
         {
           "badge": "Updated",
           "title": "Maps & Waves",
           "description": "Wave layouts, spawn points, and the best positions to hold the statue.",
-          "href": "/maps"
+          "href": "/maps/enfosi-maps"
         },
         {
           "badge": "Popular",
-          "title": "Classes & Races",
+          "title": "Classes & Characters",
           "description": "Ability breakdowns and recommended situations for every class.",
-          "href": "/races"
+          "href": "/characters/enfosi-classes"
         },
         {
           "badge": "New",
           "title": "Difficulty Modes",
           "description": "How maniac and smile modes scale enemies, bosses, and rewards.",
-          "href": "/guide"
+          "href": "/modes/enfosi-maniac-mode"
         },
         {
           "badge": "New",
           "title": "Update Notes",
           "description": "Track the Smile More overhaul, new content, and balance changes.",
-          "href": "/guide"
+          "href": "/modes/enfosi-smile-more-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is enfosi?",
       "paragraphs": [
-        "enfosi is a cooperative PvE defense game on Roblox from the Tumore group. You and your team defend a statue while waves of glaggles rush toward it, spotting disguised fakes in the crowd before they reach the objective.",
-        "Each wave introduces new enemies and bosses, and you unlock weapons, tools, and classes that change how you play. Higher difficulties such as maniac mode push loadout choices and team coordination to the limit."
+        "enfosi is a co-op wave defense game on Roblox from the Tumore group. You and your team hold the line and keep a statue standing while waves of glaggles advance on it, earning gold between rounds to spend on weapons, items, and upgrades.",
+        "Every run escalates: slow clears let waves stack up, bosses arrive with new mechanics, and classes such as Cheerer, Risio, and Gleeber change how your team holds the line. Higher difficulty modes like Maniac push builds and coordination to the limit."
       ],
       "stats": [
         {
@@ -145,19 +145,19 @@
         },
         {
           "label": "Genre",
-          "value": "Co-op PvE Defense"
+          "value": "Co-op Wave Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.8M+"
+          "label": "Classes",
+          "value": "Cheerer, Risio, Gleeber"
         },
         {
-          "label": "Favorites",
-          "value": "83K+"
+          "label": "Difficulty Modes",
+          "value": "Maniac & Smile"
         },
         {
-          "label": "Max Players",
-          "value": "50"
+          "label": "Featured Map",
+          "value": "Glaggleland"
         },
         {
           "label": "Latest Update",
@@ -168,26 +168,34 @@
     },
     "explore": {
       "title": "Explore enfosi Wiki",
-      "description": "Defend the statue with essential progression guides, active codes, class and weapon breakdowns, and boss strategies.",
+      "description": "Defend the statue with progression guides, class and weapon breakdowns, boss strategies, and the latest update coverage.",
       "modules": [
         {
           "order": 1,
           "name": "Enfosi Beginner Guide",
           "description": "A beginner-focused guide covering the core gameplay loop, statue defense objective, disguise identification, weapons, tools, classes, and first-run tips. This module helps new players understand the basic mechanics before entering harder waves.",
-          "href": "/guide",
+          "href": "/guide/enfosi-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Hold the line and protect the statue from incoming glaggles"
+              "label": "1",
+              "detail": "Hold the line and keep the statue alive through the opening waves"
             },
             {
-              "label": "Step 2",
-              "detail": "Scan the crowd and identify disguised fakes before they attack"
+              "label": "2",
+              "detail": "Learn each enemy type before slow clears let waves stack up"
             },
             {
-              "label": "Step 3",
-              "detail": "Pick a class and loadout that fits how you like to play"
+              "label": "3",
+              "detail": "Pick a class that matches how you like to play"
+            },
+            {
+              "label": "4",
+              "detail": "Spend gold on early upgrades instead of saving for one late item"
+            },
+            {
+              "label": "5",
+              "detail": "Funnel waves through chokepoints so your team can focus fire"
             }
           ]
         },
@@ -195,20 +203,24 @@
           "order": 2,
           "name": "Enfosi Classes Guide",
           "description": "A class overview module explaining available classes, their abilities, playstyles, and recommended situations. Players searching for class choices and builds can quickly compare different approaches.",
-          "href": "/races",
+          "href": "/characters/enfosi-classes",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Overview",
-              "detail": "Every playable class and its core abilities"
+              "label": "Cheerer",
+              "detail": "Support class built around team auras and crowd control"
             },
             {
-              "label": "Playstyle",
-              "detail": "Which situations each class handles best"
+              "label": "Risio",
+              "detail": "Hybrid fighter with mobility and strong boss damage"
             },
             {
-              "label": "Progression",
-              "detail": "How classes scale across difficulties"
+              "label": "Gleeber",
+              "detail": "Fast, technical pick for players who like setups"
+            },
+            {
+              "label": "Rankings",
+              "detail": "See where every class lands in the tier list"
             }
           ]
         },
@@ -216,20 +228,24 @@
           "order": 3,
           "name": "Enfosi Weapons Guide",
           "description": "A database-style module covering weapons and tools, including their roles, upgrades, and combat usage. It helps players decide which equipment fits different waves and enemy situations.",
-          "href": "/skills",
+          "href": "/combat/enfosi-weapons",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Weapons",
-              "detail": "Primary weapons for wave clear and boss damage"
+              "label": "Tier List",
+              "detail": "Every weapon ranked by damage, scaling, and ease of use"
             },
             {
-              "label": "Tools",
-              "detail": "Utility items for healing, crowd control, and support"
+              "label": "Best Picks",
+              "detail": "Top weapons for wave clear and boss fights"
+            },
+            {
+              "label": "Loadouts",
+              "detail": "Weapon and item combinations that suit each class"
             },
             {
               "label": "Upgrades",
-              "detail": "How to spend rewards efficiently each run"
+              "detail": "Where to spend currency for the biggest power spike"
             }
           ]
         },
@@ -237,20 +253,24 @@
           "order": 4,
           "name": "Enfosi Boss Guide",
           "description": "A boss strategy section covering major enemies, attack patterns, preparation methods, and survival tips. This targets players searching for ways to defeat difficult encounters.",
-          "href": "/bosses",
+          "href": "/combat/enfosi-all-bosses",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Patterns",
-              "detail": "Attack telegraphs to learn before committing"
+              "label": "First Boss",
+              "detail": "How to prepare for the first real difficulty spike"
             },
             {
-              "label": "Preparation",
-              "detail": "Loadouts and positioning for each fight"
+              "label": "Borgack",
+              "detail": "Attack patterns, safe windows, and the gear you need"
             },
             {
-              "label": "Rewards",
-              "detail": "Drops and progression tied to each boss"
+              "label": "Gergro",
+              "detail": "Positioning notes for surviving the fight and its adds"
+            },
+            {
+              "label": "Final Boss",
+              "detail": "Late-run phases, drops, and reward details"
             }
           ]
         },
@@ -258,20 +278,24 @@
           "order": 5,
           "name": "Enfosi Update Guide",
           "description": "A regularly updated module tracking major updates, new content, balance changes, and gameplay adjustments. It helps returning players understand what changed after patches.",
-          "href": "/guide",
+          "href": "/modes/enfosi-smile-more-update",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "New Content",
-              "detail": "Weapons, tools, classes, and maps added in recent patches"
+              "label": "Smile More",
+              "detail": "The Smile More update reworked waves, classes, and rewards"
+            },
+            {
+              "label": "New Modes",
+              "detail": "Fresh mode variants and modifiers to learn"
             },
             {
               "label": "Balance",
-              "detail": "Enemy, boss, and weapon adjustments"
+              "detail": "Class and enemy tuning that shifts the current meta"
             },
             {
-              "label": "Returning Players",
-              "detail": "What changed since you last played"
+              "label": "New Gear",
+              "detail": "Weapons and items added with recent patches"
             }
           ]
         },
@@ -279,24 +303,24 @@
           "order": 6,
           "name": "Enfosi Difficulty Guide",
           "description": "A difficulty comparison module explaining different modes, modifiers, and recommended strategies. Players can learn how challenges scale and how to prepare for tougher runs.",
-          "href": "/tier-list",
+          "href": "/modes/enfosi-maniac-mode",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S",
-              "detail": "Best picks for the hardest difficulties"
+              "detail": "Maniac Mode - the hardest ruleset, with faster hazards and reduced healing"
             },
             {
               "label": "A",
-              "detail": "Strong and reliable across most runs"
+              "detail": "Smile Mode - accelerated waves and shortened ability cooldowns"
             },
             {
               "label": "B",
-              "detail": "Solid with a higher skill floor"
+              "detail": "Veteran - tighter punish windows than the standard ruleset"
             },
             {
               "label": "C",
-              "detail": "Situational picks for coordinated teams"
+              "detail": "Standard - baseline wave pacing for learning every map"
             }
           ]
         },
@@ -304,20 +328,20 @@
           "order": 7,
           "name": "Enfosi Codes",
           "description": "A code tracking module designed for players searching for redeem codes and rewards. If no active codes exist, the section can clearly display current code availability status.",
-          "href": "/codes",
+          "href": "/progression/enfosi-currency",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "None",
+              "detail": "No working redeem codes for enfosi right now"
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "Status",
+              "detail": "This page tracks new codes as soon as they are confirmed"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Rewards",
+              "detail": "Free rewards currently come from badges, ranks, and events"
             }
           ]
         },
@@ -325,20 +349,32 @@
           "order": 8,
           "name": "Enfosi Controls Guide",
           "description": "A controls reference module showing keyboard inputs, recommended settings, and gameplay controls. It helps new players quickly learn the basic actions needed during battles.",
-          "href": "/guide",
-          "displayType": "card-list",
+          "href": "/controls/enfosi-controls",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Movement",
-              "detail": "Sprint, dodge, and reposition around the statue"
+              "label": "WASD",
+              "detail": "Move and reposition around the statue"
             },
             {
-              "label": "Combat",
-              "detail": "Aim, reload, and switch between weapons and tools"
+              "label": "Shift",
+              "detail": "Sprint - drains stamina while held"
             },
             {
-              "label": "Settings",
-              "detail": "Sensitivity and keybinds for fast target switching"
+              "label": "Space",
+              "detail": "Jump over low obstacles and terrain"
+            },
+            {
+              "label": "LMB",
+              "detail": "Primary attack or tool use"
+            },
+            {
+              "label": "RMB",
+              "detail": "Block incoming damage or aim"
+            },
+            {
+              "label": "E",
+              "detail": "Interact with objects, doors, and NPCs"
             }
           ]
         }
@@ -350,23 +386,23 @@
       "items": [
         {
           "question": "What is enfosi?",
-          "answer": "enfosi is a free-to-play co-op PvE defense game on Roblox by the Tumore group. You defend a statue from waves of glaggles, identify disguised fakes in the crowd, and use weapons, tools, and classes to survive increasingly hard waves and bosses."
+          "answer": "enfosi is a co-op wave defense game on Roblox from the Tumore group. You and your team defend a statue from waves of glaggles, earn gold between rounds, and spend it on weapons, items, and upgrades."
         },
         {
-          "question": "Which class should beginners pick?",
-          "answer": "Start with a straightforward, durable class while you learn enemy patterns and wave flow, then branch into support or high-damage classes once you know the maps."
+          "question": "Which enfosi class should beginners pick?",
+          "answer": "Start with a forgiving frontline class while you learn wave timing and boss patterns, then branch into support or damage once you know the maps."
         },
         {
-          "question": "Is enfosi playable on every device?",
-          "answer": "The game is best experienced on PC. Other devices work, but the developers note enfosi is designed with PC controls in mind."
+          "question": "How hard is enfosi maniac mode?",
+          "answer": "Maniac mode is the toughest ruleset in enfosi. Enemies overlap their attacks, hazards trigger faster, and healing is reduced, so positioning and cooldown timing matter more than raw damage."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does enfosi have active codes?",
+          "answer": "enfosi does not currently have working redeem codes. This wiki tracks code status and lists new rewards as soon as they are confirmed."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I make money in enfosi?",
+          "answer": "Clear waves efficiently, sell or salvage drops you do not need, and reinvest early in upgrades that raise your clear speed instead of saving for one expensive late-game item."
         }
       ]
     },
