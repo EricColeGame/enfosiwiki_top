@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -390,19 +377,7 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | enfosi Wiki",
-      "description": "Complete boss guides for enfosi — every glaggle boss and maniac-mode encounter with strategies, prep tips, and drops."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in enfosi, from early wave glaggles to the toughest maniac-mode challenges.",
-    "body": "Bosses in enfosi arrive as special waves that test how well your team handles pressure. Early bosses introduce new enemy behaviours and telegraphs, while later encounters combine multiple threats and demand coordinated positioning, crowd control, and the right loadout. Because waves scale with difficulty, the same boss can feel very different on standard and maniac settings. Use the guides below to learn attack patterns, preparation steps, and the rewards tied to each fight.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
